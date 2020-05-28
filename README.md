@@ -15,8 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/DanielObara/desafio-02-conceitos-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/desafio-02-conceitos-nodejs?style=social">
+  <a href="https://github.com/1TATO/conceitos-nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/1TATO/conceitos-nodejs?style=social">
   </a>
 </p>
 
